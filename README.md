@@ -1,5 +1,3 @@
-# Blinkit-Business-Performance-Analytics-Dashboard
-Power BI Dashboard for Blinkit Business Performance Analysis
 # Blinkit Business Performance Analytics Dashboard
 
 ## Project Description
